@@ -1,0 +1,8 @@
+{
+  "name": "UK49s Smart Number Generator",
+  "short_name": "UK49s Generator",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
