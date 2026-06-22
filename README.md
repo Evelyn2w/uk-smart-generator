@@ -59,6 +59,6 @@ We plan to expand this tool with:
 
 This project was developed and maintained by the team at **Star49s**, a platform dedicated to providing accurate UK49s lottery results, predictions, and tools.
 
-👉 Visit our website: [Star49s - UK49s Results](https://star49s.com)
+👉 Visit our website: [Star49s - UK49s Results](https://star49s.com/uk49s)
 
 Thank you for checking out this tool! If you find it helpful, feel free to give the repo a ⭐ on GitHub and share it with others.
